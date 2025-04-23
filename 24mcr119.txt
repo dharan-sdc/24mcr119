@@ -2,3 +2,4 @@ Name: Thulasidharan P
 reg. No: 24mcr119
 Dept: Master of Computer Application
 Fav. Topics: Data Structure
+Mobile Model: Samsung Galaxy A12
